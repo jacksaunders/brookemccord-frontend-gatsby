@@ -18,7 +18,7 @@ const IndexPage = () => (
         AnOther. As a digital native, Brooke has translated her knowledge and
         understanding of digital behaviour to strategy and content projects for
         the likes of adidas Originals, Nike, Liberty of London, Floom,
-        Glossier, The Body Shop, Flannels, Matches Fashion, 3INA, Ace & Tate and
+        Glossier, The Body Shop, Flannels, Matches, 3INA, Ace & Tate and
         Topshop.
       </p>
       <div className={styles.contact}>
