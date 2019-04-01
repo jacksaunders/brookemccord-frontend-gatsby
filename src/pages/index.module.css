@@ -26,6 +26,10 @@
   margin-bottom: 4rem;
 }
 
+.text a:hover {
+  color: #ef3340;
+}
+
 .contact {
   width: 100%;
   display: flex;

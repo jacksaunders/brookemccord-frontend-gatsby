@@ -7,20 +7,52 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
     <div className={styles.wrapper}>
-      <h1>Brooke McCord</h1>
-      <h2>
-        <span>Digital Editor of The Face</span> / Writer / Creative Consultant
-      </h2>
-      <p>
-        Brooke McCord is a London-based writer, editor, and consultant, working
-        across fashion and contemporary culture who has contributed to Dazed &
-        Confused, i-D, Office, The Guardian, Dazed Beauty, LOVE, Wonderland and
-        AnOther. As a digital native, Brooke has translated her knowledge and
-        understanding of digital behaviour to strategy and content projects for
-        the likes of adidas Originals, Nike, Liberty of London, Floom,
-        Glossier, The Body Shop, Flannels, Matches, 3INA, Ace & Tate and
-        Topshop.
-      </p>
+      <div className={styles.text}>
+        <h1>Brooke McCord</h1>
+        <h2>
+          <span>Digital Editor of The Face</span> / Writer / Creative Consultant
+        </h2>
+        <p>
+          Brooke McCord is a London-based writer, editor, and consultant,
+          working across fashion and contemporary culture who has contributed to{' '}
+          <a
+            href="http://www.dazeddigital.com/user/BrookeMcCord"
+            target="_blank"
+          >
+            Dazed & Confused
+          </a>
+          , i-D,{' '}
+          <a
+            href="http://officemagazine.net/interview/all-hell-breaking-loose-hmltd"
+            target="_blank"
+          >
+            Office
+          </a>
+          ,{' '}
+          <a
+            href="https://www.theguardian.com/music/2018/sep/19/st-petersburg-rail-factory-nightclub"
+            target="_blank"
+          >
+            The Guardian
+          </a>
+          ,{' '}
+          <a
+            href="https://www.dazeddigital.com/beauty/body/article/42823/1/brazilian-butt-lift-surgery-can-kill-you"
+            target="_blank"
+          >
+            Dazed Beauty
+          </a>
+          , LOVE, Wonderland and{' '}
+          <a href="http://www.anothermag.com/user/BrookeMcCord" target="_blank">
+            AnOther
+          </a>
+          . As a digital native, Brooke has translated her knowledge and
+          understanding of digital behaviour to strategy and content projects
+          for the likes of adidas Originals, Nike, Liberty of London, Floom,
+          Glossier, The Body Shop, Flannels, Matches, 3INA, Ace & Tate and
+          Topshop.
+        </p>
+      </div>
       <div className={styles.contact}>
         <div>
           <h4>Email</h4>
