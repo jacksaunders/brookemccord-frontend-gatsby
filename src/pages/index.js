@@ -18,6 +18,7 @@ const IndexPage = () => (
           <a
             href="http://www.dazeddigital.com/user/BrookeMcCord"
             target="_blank"
+            rel="noopener noreferrer"
           >
             Dazed & Confused
           </a>
@@ -25,6 +26,7 @@ const IndexPage = () => (
           <a
             href="http://officemagazine.net/interview/all-hell-breaking-loose-hmltd"
             target="_blank"
+            rel="noopener noreferrer"
           >
             Office
           </a>
@@ -32,6 +34,7 @@ const IndexPage = () => (
           <a
             href="https://www.theguardian.com/music/2018/sep/19/st-petersburg-rail-factory-nightclub"
             target="_blank"
+            rel="noopener noreferrer"
           >
             The Guardian
           </a>
@@ -39,11 +42,13 @@ const IndexPage = () => (
           <a
             href="https://www.dazeddigital.com/beauty/body/article/42823/1/brazilian-butt-lift-surgery-can-kill-you"
             target="_blank"
+            rel="noopener noreferrer"
           >
             Dazed Beauty
           </a>
           , LOVE, Wonderland and{' '}
-          <a href="http://www.anothermag.com/user/BrookeMcCord" target="_blank">
+          <a href="http://www.anothermag.com/user/BrookeMcCord" target="_blank"
+          rel="noopener noreferrer">
             AnOther
           </a>
           . As a digital native, Brooke has translated her knowledge and
@@ -60,7 +65,8 @@ const IndexPage = () => (
         </div>
         <div>
           <h4>Instagram</h4>
-          <a href="https://instagram.com/brooke_mccord" target="_blank">
+          <a href="https://instagram.com/brooke_mccord" target="_blank"
+          rel="noopener noreferrer">
             @brooke_mccord
           </a>
         </div>

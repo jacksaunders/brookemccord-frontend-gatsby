@@ -29,6 +29,9 @@
 .text a:hover {
   color: #ef3340;
 }
+.text a {
+  color: black;
+}
 
 .contact {
   width: 100%;
