@@ -10,7 +10,7 @@ const IndexPage = () => (
       <div className={styles.text}>
         <h1>Brooke McCord</h1>
         <h2>
-          <span>Digital Editor of The Face</span> / Writer / Creative Consultant
+          <span>Digital Director of The Face</span> / Writer / Creative Consultant
         </h2>
         <p>
           Brooke McCord is a London-based writer, editor, and consultant,
