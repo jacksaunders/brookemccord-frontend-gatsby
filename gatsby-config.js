@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Brooke Mccord | Digital Editor of The Face | Writer | Creative Consultant`,
-    description: `Brooke McCord is a London-based writer, editor, and consultant, working across fashion and contemporary culture who has contributed to Dazed & Confused, i-D, Office, The Guardian, Dazed Beauty, LOVE, Wonderland and AnOther. As a digital native, Brooke has translated her knowledge and understanding of digital behaviour to strategy and content projects for the likes of adidas Originals, Nike, Liberty of London, Floom, Glossier, The Body Shop, Flannels, Matches, 3INA, Ace & Tate and Topshop.`,
+    title: `Brooke Mccord`,
+    description: `Brooke McCord is a digital content director, writer and speaker.`,
     author: `@jacksndrs`,
   },
   plugins: [
