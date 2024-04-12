@@ -50,6 +50,10 @@ function SEO({ description, lang, meta, keywords, title }) {
                 name: `twitter:description`,
                 content: metaDescription,
               },
+              {
+                name: `theme-color`,
+                content: 'black',
+              },
             ]
               .concat(
                 keywords.length > 0
