@@ -12,7 +12,7 @@ const IndexPage = () => (
     <div className={styles.wrapper}>
       <div className={styles.text}>
         <h1>
-          Brooke McCord is a digital content director, writer and speaker.
+          Brooke McCord is a writer, speaker and digital content director.
         </h1>
       </div>
       <div className={styles.contact}>
@@ -22,7 +22,7 @@ const IndexPage = () => (
           </h4>
           <h4>
             <a href="https://0bjectsofdesire.substack.com/">
-              Subscribe to my newsletter
+              Subscribe to my newsletter.
             </a>
           </h4>
         </div>
