@@ -5,10 +5,7 @@ import styles from './index.module.css'
 
 const IndexPage = () => (
   <Layout>
-    <SEO
-      title="Home"
-      keywords={[`brooke mccord`, `digital content`, `writer`, `speaker`]}
-    />
+    <SEO keywords={[`brooke mccord`, `digital content`, `writer`, `speaker`]} />
     <div className={styles.wrapper}>
       <div className={styles.text}>
         <h1>
